@@ -1,0 +1,95 @@
+{
+    "categories":[
+        {
+            "name":"Artificial Flowers",
+            "subcategory":[
+                "Foam Flowers",
+                "Artificial Rose",
+                "Rose",
+                "Lilies",
+                "Latex Flowers"
+            ]
+
+        },
+        {
+            "name" : "Block Prints",
+            "subcategory" : [
+                "Sanganeri Print",
+                "Bagru Print",
+                "Dabu Print",
+                "Kalamkari Print",
+                "Ajrakh Print"
+            ]
+        },
+        {
+            "name": " Brass Decor",
+            "subcategory":[
+                "Figurines",
+                "Statues",
+                "Home Decor",
+                "Garden Decor",
+                "Bedframes"
+            ]
+        },
+        {
+            "name": "Candles",
+            "subcategory":[
+                "Scented Candles",
+                "Soy Candles",
+                "Birthday Candle",
+                "Votive Candle",
+                "Taper Candle"
+            ]
+        },
+        {
+            "name" : "Soaps",
+            "subcategory":[
+                "Moisturizing Soap",
+                "Antibacterial Soap",
+                "Natural Soap",
+                "Foam Soap",
+                "Body Soap"
+            ]
+        },
+        {
+            "name": "Jutis",
+            "subcategory": [
+                "Rajasthani Juti",
+                "Embroidered Juti",
+                "Riyashi Juti",
+                "Jodhpuri Juti",
+                "Kolhapuri Style"
+            ]
+        },
+        {
+            "name" : "Women's Clothing",
+            "subcategory":[
+                "Sarees",
+                "Kurti",
+                "Ethnic Fashion",
+                "Suits",
+                "Tops"
+            ]
+        },
+        {
+            "name" : "Men's Clothing",
+            "subcategory": [
+                "Shirts",
+                "T-shirts",
+                "Printed T-Shirts",
+                "Plain T-Shirts",
+                "Formal Shirts"
+            ]
+        },
+        {
+            " name": "Wooden Decor",
+            "subcategory": [
+                "Wooden Wall Hanging",
+                "Wooden Coffered Ceiling",
+                "Wooden Lattice Design",
+                "Wooden Statues",
+                "Wooden Playful"
+            ]
+        }
+    ]
+}
